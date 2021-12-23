@@ -22,3 +22,6 @@ Loop the program so the user can use it more than once without having to restart
 Rock Paper Scissors Game
 Create a rock-paper-scissors game. Ask the player to pick rock, paper or scissors.
 Have the computer chose its move. Compare the choices and decide who wins. Print the results.
+
+Stock Price Prediction
+https://medium.com/@abiolafadeyi10/time-series-forecasting-predicting-stock-prices-using-python-87df91e1fe89
